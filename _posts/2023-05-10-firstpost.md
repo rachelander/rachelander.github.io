@@ -1,10 +1,5 @@
 # First blog experimenting with FastAI
 
-Here's the table of contents:
-
-1. TOC
-{:toc}
-
 ## Basic setup
 
 Jekyll requires blog post files to be named according to the following format:
